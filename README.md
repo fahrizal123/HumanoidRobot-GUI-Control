@@ -4,10 +4,20 @@ Welcome to the GitHub repository for our Humanoid Robot GUI & Control, part of t
 
 ## Team Members
 
-- Kelas A Meka 2023
-  - Member 1: Muhammad Fahrizal - 4121600002
-  - Member 2: M Yusuf Fitrian - 4121600017
-  - Member 3: M Ishom Muwafaq - 4121600010
+- Mechatronics A 2021
+  - Ubaidillah Ramadhan Nur Santoso - 4121600012
+  - Zahra Athira - 4121600006
+  - Muhammad Fahrizal - 4121600002
+  - M. Yusuf Fitrian - 4121600017
+  - M. Ishom Muwafaq - 4121600010
+    
+- Mechatronics B 2021
+  - Imam Tantowi Yahya - 4121600038
+  - Yaafi Ahmad Alfatih - 4121600056
+  - RM. Nararya Rakendra - 4121600060
+  - Akmal Nurhidayat - 4121600041
+  - Artaka Sunu A.P - 4121600057
+  - Fahri Alia Murtadho - 4121600059
 
 ## Repository Structure
 
